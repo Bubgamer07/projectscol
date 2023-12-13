@@ -1,0 +1,1 @@
+document.body.innerHTML = `<button onclick="setCookie('color', not getCookie('color'), Infinity);">color mode</button>` + document.body.innerHTML;
